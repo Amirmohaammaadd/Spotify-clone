@@ -1,0 +1,354 @@
+{
+  "success": true,
+  "message": "",
+  "requestDate": "2024-05-29T09:43:49.507974+03:30",
+  "data": {
+    "menuList": [
+      {
+        "menuTitle": "پشتیبانی",
+        "subMenu": [
+          {
+            "subMenuId": 88,
+            "subMenuTitle": "تاریخچه درخواست پشتیبانی",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 86,
+            "subMenuTitle": "تاریخچه شکایات",
+            "isActive": true,
+            "objects": [
+              {
+                "objectId": "1",
+                "objectName": "جستجو",
+                "isActive": true
+              },
+              {
+                "objectId": "7",
+                "objectName": "روند پرونده",
+                "isActive": true
+              }
+            ]
+          },
+
+          {
+            "subMenuId": 77,
+            "subMenuTitle": "تاریخچه قراردادها",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "1",
+                "objectName": "جستجو",
+                "isActive": false
+              },
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 87,
+            "subMenuTitle": "درخواست پشتیبانی",
+            "isActive": true,
+            "objects": [
+              {
+                "objectId": "8",
+                "objectName": "پذیرش درخواست",
+                "isActive": true
+              },
+              {
+                "objectId": "6",
+                "objectName": "توضیحات",
+                "isActive": true
+              },
+              {
+                "objectId": "7",
+                "objectName": "روند پرونده",
+                "isActive": true
+              }
+            ]
+          },
+          {
+            "subMenuId": 85,
+            "subMenuTitle": "شکایات",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menuTitle": "شکایات",
+        "subMenu": [
+          {
+            "subMenuId": 86,
+            "subMenuTitle": "تاریخچه شکایات",
+            "isActive": true,
+            "objects": [
+              {
+                "objectId": "6",
+                "objectName": "توضیحات",
+                "isActive": true
+              },
+              {
+                "objectId": "1",
+                "objectName": "جستجو",
+                "isActive": true
+              },
+              {
+                "objectId": "7",
+                "objectName": "روند پرونده",
+                "isActive": true
+              }
+            ]
+          },
+          {
+            "subMenuId": 86,
+            "subMenuTitle": "تاریخچه شکایات",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 85,
+            "subMenuTitle": "شکایات",
+            "isActive": true,
+            "objects": [
+              {
+                "objectId": "8",
+                "objectName": "پذیرش درخواست",
+                "isActive": true
+              },
+              {
+                "objectId": "6",
+                "objectName": "توضیحات",
+                "isActive": true
+              },
+              {
+                "objectId": "7",
+                "objectName": "روند پرونده",
+                "isActive": true
+              }
+            ]
+          },
+          {
+            "subMenuId": 85,
+            "subMenuTitle": "شکایات",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menuTitle": "گزارشات",
+        "subMenu": [
+          {
+            "subMenuId": 89,
+            "subMenuTitle": "صورت حساب",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 94,
+            "subMenuTitle": "گزارش تعداد ثبت نام",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menuTitle": "مدیریت",
+        "subMenu": [
+          {
+            "subMenuId": 93,
+            "subMenuTitle": "تاریخچه فعالیت کاربران",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 77,
+            "subMenuTitle": "تاریخچه قراردادها",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "1",
+                "objectName": "جستجو",
+                "isActive": false
+              },
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 91,
+            "subMenuTitle": "تعریف محیط تست",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 95,
+            "subMenuTitle": "ثبت نام کاربر جدید",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 92,
+            "subMenuTitle": "فهرست قراردادهای تایید شده",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 90,
+            "subMenuTitle": "وضعیت قراردادها",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          }
+        ]
+      },
+      { 
+        "menuTitle": "مودیان",
+        "subMenu": [
+          {
+            "subMenuId": 77,
+            "subMenuTitle": "تاریخچه قراردادها",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "1",
+                "objectName": "جستجو",
+                "isActive": false
+              },
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+          {
+            "subMenuId": 92,
+            "subMenuTitle": "فهرست قراردادهای تایید شده",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              }
+            ]
+          },
+
+          {
+            "subMenuId": 51,
+            "subMenuTitle": "فهرست مودیان",
+            "isActive": true,
+            "objects": [
+              {
+                "objectId": "1",
+                "objectName": "جستجو",
+                "isActive": true
+              }
+            ]
+          },
+          {
+            "subMenuId": 60,
+            "subMenuTitle": "لیست قراردادها",
+            "isActive": false,
+            "objects": [
+              {
+                "objectId": "10",
+                "objectName": "بارگذاری تصاویر",
+                "isActive": false
+              },
+              {
+                "objectId": "11",
+                "objectName": "دریافت پرونده",
+                "isActive": false
+              },
+              {
+                "objectId": "23",
+                "objectName": "صفحه اصلی",
+                "isActive": false
+              },
+              {
+                "objectId": "12",
+                "objectName": "عملیات",
+                "isActive": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "errors": []
+}
